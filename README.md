@@ -1,4 +1,4 @@
-# 🎓 Algorithm-Related Projects and Exercises
+# 🎓 Algorithm-Related Core Concepts via Application!
 
 Welcome to my collection of algorithm-related projects and exercises!
 
